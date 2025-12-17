@@ -34,6 +34,16 @@
         "overseas_share": 0.75,
         "note": "海外高速光模块份额提升，LPO 技术储备",
         "score_breakdown": { "chain": 20, "scale": 15, "margin": 15, "overseas": 12, "visibility": 10 }
+      },
+      {
+        "code": "300050",
+        "name": "天孚通信",
+        "revenue_q4yoy": 0.38,
+        "net_profit_growth": 0.52,
+        "gross_margin": 0.54,
+        "overseas_share": 0.80,
+        "note": "光引擎核心器件，盈利能力极强",
+        "score_breakdown": { "chain": 28, "scale": 18, "margin": 20, "overseas": 14, "visibility": 14 }
       }
     ],
     "growth_candidates": [
@@ -46,12 +56,52 @@
         "score_breakdown": { "cagr": 25, "order": 25, "potential": 18, "valuation": 12, "risk": -10 }
       },
       {
-        "code": "688xxx",
+        "code": "688052",
         "name": "源杰科技",
         "revenue_cagr_3y": 0.40,
         "order_growth": 0.35,
         "risk": "高端芯片良率波动",
         "score_breakdown": { "cagr": 20, "order": 15, "potential": 18, "valuation": 10, "risk": -15 }
+      },
+      {
+        "code": "300442",
+        "name": "普利特",
+        "revenue_cagr_3y": 0.28,
+        "order_growth": 0.22,
+        "risk": "LCP材料认证周期长",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 20, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "300394",
+        "name": "天际股份",
+        "revenue_cagr_3y": 0.30,
+        "order_growth": 0.25,
+        "risk": "价格竞争激烈",
+        "score_breakdown": { "cagr": 18, "order": 15, "potential": 10, "valuation": 12, "risk": -10 }
+      },
+      {
+        "code": "300620",
+        "name": "光库科技",
+        "revenue_cagr_3y": 0.25,
+        "order_growth": 0.20,
+        "risk": "铌酸锂调制器放量不及预期",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 20, "valuation": 10, "risk": -15 }
+      },
+      {
+        "code": "688256",
+        "name": "寒武纪",
+        "revenue_cagr_3y": 0.45,
+        "order_growth": 0.30,
+        "risk": "实体清单限制",
+        "score_breakdown": { "cagr": 25, "order": 15, "potential": 20, "valuation": 5, "risk": -20 }
+      },
+      {
+        "code": "600745",
+        "name": "闻泰科技",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.10,
+        "risk": "消费电子复苏缓慢",
+        "score_breakdown": { "cagr": 10, "order": 10, "potential": 10, "valuation": 15, "risk": -5 }
       }
     ]
   },
@@ -80,16 +130,516 @@
         "overseas_share": 0.08,
         "note": "刻蚀设备全球竞争力强，存储厂核心供应商",
         "score_breakdown": { "chain": 10, "scale": 20, "margin": 20, "overseas": 2, "visibility": 15 }
+      },
+      {
+        "code": "603383",
+        "name": "北方华创",
+        "revenue_q4yoy": 0.35,
+        "net_profit_growth": 0.50,
+        "gross_margin": 0.40,
+        "overseas_share": 0.05,
+        "note": "平台型龙头，覆盖刻蚀、沉积、清洗等多环节",
+        "score_breakdown": { "chain": 10, "scale": 20, "margin": 18, "overseas": 2, "visibility": 20 }
+      },
+      {
+        "code": "688037",
+        "name": "芯源微",
+        "revenue_q4yoy": 0.28,
+        "net_profit_growth": 0.35,
+        "gross_margin": 0.43,
+        "overseas_share": 0.03,
+        "note": "涂胶显影设备龙头，前道工艺快速突破",
+        "score_breakdown": { "chain": 8, "scale": 15, "margin": 18, "overseas": 1, "visibility": 15 }
       }
     ],
     "growth_candidates": [
       {
-        "code": "688xxx",
+        "code": "688072",
         "name": "拓荆科技",
         "revenue_cagr_3y": 0.70,
         "order_growth": 0.55,
         "risk": "下游晶圆厂扩产放缓",
         "score_breakdown": { "cagr": 30, "order": 25, "potential": 18, "valuation": 10, "risk": -5 }
+      },
+      {
+        "code": "688200",
+        "name": "华峰测控",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.15,
+        "risk": "封测行业周期波动",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 15, "valuation": 15, "risk": -10 }
+      },
+      {
+        "code": "603690",
+        "name": "至纯科技",
+        "revenue_cagr_3y": 0.35,
+        "order_growth": 0.30,
+        "risk": "清洗设备竞争加剧",
+        "score_breakdown": { "cagr": 20, "order": 18, "potential": 12, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "688516",
+        "name": "奥特维",
+        "revenue_cagr_3y": 0.50,
+        "order_growth": 0.45,
+        "risk": "光伏行业资本开支缩减",
+        "score_breakdown": { "cagr": 25, "order": 20, "potential": 15, "valuation": 10, "risk": -15 }
+      },
+      {
+        "code": "300316",
+        "name": "晶盛机电",
+        "revenue_cagr_3y": 0.45,
+        "order_growth": 0.35,
+        "risk": "硅片产能过剩影响",
+        "score_breakdown": { "cagr": 22, "order": 15, "potential": 15, "valuation": 12, "risk": -12 }
+      },
+      {
+        "code": "688630",
+        "name": "芯动联科",
+        "revenue_cagr_3y": 0.30,
+        "order_growth": 0.40,
+        "risk": "技术迭代风险",
+        "score_breakdown": { "cagr": 15, "order": 20, "potential": 20, "valuation": 8, "risk": -10 }
+      },
+      {
+        "code": "688409",
+        "name": "富创精密",
+        "revenue_cagr_3y": 0.40,
+        "order_growth": 0.35,
+        "risk": "零部件国产化竞争",
+        "score_breakdown": { "cagr": 20, "order": 18, "potential": 15, "valuation": 12, "risk": -8 }
+      }
+    ]
+  },
+  {
+    "id": "semi-materials",
+    "name": "半导体材料",
+    "priority": 3,
+    "tags": ["Photoresist", "Wafer", "EUV", "Chemicals"],
+    "metrics": {
+      "shipment": "Stable",
+      "ASP": "Stable",
+      "gross_margin": 0.35,
+      "gross_margin_prev": 0.34,
+      "overseas_share": 0.15,
+      "order_book_trend": "up"
+    },
+    "trend": "up",
+    "last_updated": "2023-12-18",
+    "leaders": [
+      {
+        "code": "688126",
+        "name": "沪硅产业",
+        "revenue_q4yoy": 0.20,
+        "net_profit_growth": 0.15,
+        "gross_margin": 0.25,
+        "overseas_share": 0.12,
+        "note": "大硅片国产龙头，产能持续爬坡",
+        "score_breakdown": { "chain": 10, "scale": 20, "margin": 12, "overseas": 5, "visibility": 20 }
+      },
+      {
+        "code": "688019",
+        "name": "安集科技",
+        "revenue_q4yoy": 0.28,
+        "net_profit_growth": 0.33,
+        "gross_margin": 0.52,
+        "overseas_share": 0.15,
+        "note": "CMP抛光液打破垄断，毛利维持高位",
+        "score_breakdown": { "chain": 12, "scale": 15, "margin": 25, "overseas": 5, "visibility": 18 }
+      },
+      {
+        "code": "002409",
+        "name": "雅克科技",
+        "revenue_q4yoy": 0.18,
+        "net_profit_growth": 0.22,
+        "gross_margin": 0.30,
+        "overseas_share": 0.40,
+        "note": "前驱体与LNG板材双主业，海力士核心供应商",
+        "score_breakdown": { "chain": 25, "scale": 18, "margin": 15, "overseas": 15, "visibility": 15 }
+      },
+      {
+        "code": "300666",
+        "name": "江丰电子",
+        "revenue_q4yoy": 0.25,
+        "net_profit_growth": 0.20,
+        "gross_margin": 0.29,
+        "overseas_share": 0.60,
+        "note": "靶材全球第二梯队，台积电供应商",
+        "score_breakdown": { "chain": 28, "scale": 15, "margin": 14, "overseas": 18, "visibility": 12 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "688268",
+        "name": "华特气体",
+        "revenue_cagr_3y": 0.35,
+        "order_growth": 0.25,
+        "risk": "稀有气体价格波动",
+        "score_breakdown": { "cagr": 20, "order": 15, "potential": 18, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "603650",
+        "name": "彤程新材",
+        "revenue_cagr_3y": 0.22,
+        "order_growth": 0.18,
+        "risk": "光刻胶研发进度不确定",
+        "score_breakdown": { "cagr": 12, "order": 12, "potential": 25, "valuation": 15, "risk": -10 }
+      },
+      {
+        "code": "300054",
+        "name": "鼎龙股份",
+        "revenue_cagr_3y": 0.28,
+        "order_growth": 0.30,
+        "risk": "新产品验证周期",
+        "score_breakdown": { "cagr": 15, "order": 18, "potential": 20, "valuation": 12, "risk": -5 }
+      },
+      {
+        "code": "688138",
+        "name": "清溢光电",
+        "revenue_cagr_3y": 0.25,
+        "order_growth": 0.20,
+        "risk": "掩膜版下游需求波动",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 15, "valuation": 15, "risk": -8 }
+      },
+      {
+        "code": "688206",
+        "name": "概伦电子",
+        "revenue_cagr_3y": 0.30,
+        "order_growth": 0.25,
+        "risk": "EDA市场竞争",
+        "score_breakdown": { "cagr": 18, "order": 15, "potential": 18, "valuation": 8, "risk": -10 }
+      },
+      {
+        "code": "688401",
+        "name": "路维光电",
+        "revenue_cagr_3y": 0.35,
+        "order_growth": 0.30,
+        "risk": "面板行业周期性",
+        "score_breakdown": { "cagr": 20, "order": 18, "potential": 12, "valuation": 12, "risk": -12 }
+      }
+    ]
+  },
+  {
+    "id": "consumer-electronics",
+    "name": "消费电子核心零部件",
+    "priority": 4,
+    "tags": ["Apple Chain", "Titanium", "XR/VR", "Foldable"],
+    "metrics": {
+      "shipment": "Rebounding",
+      "ASP": "Rising",
+      "gross_margin": 0.22,
+      "gross_margin_prev": 0.20,
+      "overseas_share": 0.70,
+      "order_book_trend": "flat"
+    },
+    "trend": "flat",
+    "last_updated": "2023-12-18",
+    "leaders": [
+      {
+        "code": "002475",
+        "name": "立讯精密",
+        "revenue_q4yoy": 0.15,
+        "net_profit_growth": 0.20,
+        "gross_margin": 0.12,
+        "overseas_share": 0.90,
+        "note": "果链核心组装及零部件，汽车电子发力",
+        "score_breakdown": { "chain": 30, "scale": 20, "margin": 8, "overseas": 15, "visibility": 15 }
+      },
+      {
+        "code": "300433",
+        "name": "蓝思科技",
+        "revenue_q4yoy": 0.10,
+        "net_profit_growth": 0.25,
+        "gross_margin": 0.24,
+        "overseas_share": 0.80,
+        "note": "玻璃盖板龙头，钛合金新工艺受益",
+        "score_breakdown": { "chain": 25, "scale": 18, "margin": 15, "overseas": 12, "visibility": 12 }
+      },
+      {
+        "code": "002241",
+        "name": "歌尔股份",
+        "revenue_q4yoy": 0.05,
+        "net_profit_growth": 0.10,
+        "gross_margin": 0.10,
+        "overseas_share": 0.85,
+        "note": "XR代工龙头，声学器件稳健",
+        "score_breakdown": { "chain": 25, "scale": 18, "margin": 5, "overseas": 14, "visibility": 10 }
+      },
+      {
+        "code": "002600",
+        "name": "领益智造",
+        "revenue_q4yoy": 0.12,
+        "net_profit_growth": 0.15,
+        "gross_margin": 0.21,
+        "overseas_share": 0.75,
+        "note": "精密结构件，散热方案",
+        "score_breakdown": { "chain": 22, "scale": 15, "margin": 15, "overseas": 12, "visibility": 10 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "002938",
+        "name": "鹏鼎控股",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.10,
+        "risk": "PCB周期波动",
+        "score_breakdown": { "cagr": 10, "order": 10, "potential": 15, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "002384",
+        "name": "东山精密",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.18,
+        "risk": "新能源车降价压力",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 18, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "601231",
+        "name": "环旭电子",
+        "revenue_cagr_3y": 0.18,
+        "order_growth": 0.12,
+        "risk": "SiP封装需求放缓",
+        "score_breakdown": { "cagr": 12, "order": 10, "potential": 12, "valuation": 18, "risk": -5 }
+      },
+      {
+        "code": "003021",
+        "name": "兆威机电",
+        "revenue_cagr_3y": 0.25,
+        "order_growth": 0.30,
+        "risk": "MR设备销量不及预期",
+        "score_breakdown": { "cagr": 18, "order": 20, "potential": 20, "valuation": 10, "risk": -10 }
+      },
+      {
+        "code": "002273",
+        "name": "水晶光电",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.15,
+        "risk": "光学行业竞争",
+        "score_breakdown": { "cagr": 10, "order": 12, "potential": 15, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "002138",
+        "name": "顺络电子",
+        "revenue_cagr_3y": 0.12,
+        "order_growth": 0.10,
+        "risk": "消费电子复苏弱",
+        "score_breakdown": { "cagr": 8, "order": 8, "potential": 12, "valuation": 18, "risk": -5 }
+      }
+    ]
+  },
+  {
+    "id": "storage-inverter",
+    "name": "海外储能 / 逆变器",
+    "priority": 5,
+    "tags": ["Europe Inventory", "Emerging Markets", "Micro-inverter"],
+    "metrics": {
+      "shipment": "Recovery",
+      "ASP": "Declining",
+      "gross_margin": 0.32,
+      "gross_margin_prev": 0.35,
+      "overseas_share": 0.85,
+      "order_book_trend": "up"
+    },
+    "trend": "up",
+    "last_updated": "2023-12-18",
+    "leaders": [
+      {
+        "code": "300274",
+        "name": "阳光电源",
+        "revenue_q4yoy": 0.40,
+        "net_profit_growth": 0.60,
+        "gross_margin": 0.31,
+        "overseas_share": 0.55,
+        "note": "光储系统全球龙头，大储盈利能力强",
+        "score_breakdown": { "chain": 28, "scale": 20, "margin": 18, "overseas": 12, "visibility": 18 }
+      },
+      {
+        "code": "605117",
+        "name": "德业股份",
+        "revenue_q4yoy": 0.35,
+        "net_profit_growth": 0.45,
+        "gross_margin": 0.40,
+        "overseas_share": 0.80,
+        "note": "亚非拉新兴市场户储爆发，微逆增长",
+        "score_breakdown": { "chain": 22, "scale": 15, "margin": 22, "overseas": 15, "visibility": 15 }
+      },
+      {
+        "code": "300763",
+        "name": "锦浪科技",
+        "revenue_q4yoy": 0.20,
+        "net_profit_growth": 0.25,
+        "gross_margin": 0.33,
+        "overseas_share": 0.65,
+        "note": "组串式逆变器龙头，库存去化接近尾声",
+        "score_breakdown": { "chain": 20, "scale": 15, "margin": 18, "overseas": 12, "visibility": 12 }
+      },
+      {
+        "code": "688390",
+        "name": "固德威",
+        "revenue_q4yoy": 0.18,
+        "net_profit_growth": 0.20,
+        "gross_margin": 0.31,
+        "overseas_share": 0.70,
+        "note": "欧洲户储占比高，渠道粘性强",
+        "score_breakdown": { "chain": 20, "scale": 15, "margin": 18, "overseas": 14, "visibility": 10 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "688032",
+        "name": "禾迈股份",
+        "revenue_cagr_3y": 0.60,
+        "order_growth": 0.40,
+        "risk": "微逆市场竞争",
+        "score_breakdown": { "cagr": 25, "order": 20, "potential": 18, "valuation": 12, "risk": -10 }
+      },
+      {
+        "code": "688348",
+        "name": "昱能科技",
+        "revenue_cagr_3y": 0.55,
+        "order_growth": 0.35,
+        "risk": "欧洲库存压力",
+        "score_breakdown": { "cagr": 22, "order": 18, "potential": 15, "valuation": 12, "risk": -12 }
+      },
+      {
+        "code": "688063",
+        "name": "派能科技",
+        "revenue_cagr_3y": 0.45,
+        "order_growth": 0.25,
+        "risk": "电芯价格波动",
+        "score_breakdown": { "cagr": 20, "order": 12, "potential": 15, "valuation": 10, "risk": -10 }
+      },
+      {
+        "code": "002518",
+        "name": "科士达",
+        "revenue_cagr_3y": 0.30,
+        "order_growth": 0.25,
+        "risk": "海外渠道拓展不及预期",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 15, "valuation": 15, "risk": -8 }
+      },
+      {
+        "code": "300827",
+        "name": "上能电气",
+        "revenue_cagr_3y": 0.35,
+        "order_growth": 0.30,
+        "risk": "美国市场政策风险",
+        "score_breakdown": { "cagr": 18, "order": 18, "potential": 15, "valuation": 10, "risk": -15 }
+      },
+      {
+        "code": "002150",
+        "name": "通润装备",
+        "revenue_cagr_3y": 0.40,
+        "order_growth": 0.35,
+        "risk": "正泰电源资产整合风险",
+        "score_breakdown": { "cagr": 20, "order": 18, "potential": 15, "valuation": 10, "risk": -10 }
+      }
+    ]
+  },
+  {
+    "id": "new-materials",
+    "name": "新材料（电子化学品）",
+    "priority": 6,
+    "tags": ["OLED", "Ceramics", "Composite", "Synthetic Bio"],
+    "metrics": {
+      "shipment": "Stable",
+      "ASP": "Stable",
+      "gross_margin": 0.40,
+      "gross_margin_prev": 0.38,
+      "overseas_share": 0.30,
+      "order_book_trend": "flat"
+    },
+    "trend": "flat",
+    "last_updated": "2023-12-18",
+    "leaders": [
+      {
+        "code": "300408",
+        "name": "三环集团",
+        "revenue_q4yoy": 0.15,
+        "net_profit_growth": 0.18,
+        "gross_margin": 0.42,
+        "overseas_share": 0.20,
+        "note": "MLCC与陶瓷插芯国产替代，垂直一体化",
+        "score_breakdown": { "chain": 15, "scale": 20, "margin": 25, "overseas": 8, "visibility": 15 }
+      },
+      {
+        "code": "600378",
+        "name": "昊华科技",
+        "revenue_q4yoy": 0.12,
+        "net_profit_growth": 0.10,
+        "gross_margin": 0.28,
+        "overseas_share": 0.15,
+        "note": "电子特气央企平台，并购整合预期",
+        "score_breakdown": { "chain": 15, "scale": 20, "margin": 15, "overseas": 5, "visibility": 15 }
+      },
+      {
+        "code": "688550",
+        "name": "瑞联新材",
+        "revenue_q4yoy": 0.20,
+        "net_profit_growth": 0.25,
+        "gross_margin": 0.35,
+        "overseas_share": 0.65,
+        "note": "OLED/医药中间体，海外收入占比高",
+        "score_breakdown": { "chain": 20, "scale": 15, "margin": 18, "overseas": 18, "visibility": 10 }
+      },
+      {
+        "code": "002643",
+        "name": "万润股份",
+        "revenue_q4yoy": 0.15,
+        "net_profit_growth": 0.12,
+        "gross_margin": 0.40,
+        "overseas_share": 0.50,
+        "note": "高端显示材料与沸石，业绩稳健",
+        "score_breakdown": { "chain": 18, "scale": 18, "margin": 20, "overseas": 12, "visibility": 12 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "300806",
+        "name": "斯迪克",
+        "revenue_cagr_3y": 0.25,
+        "order_growth": 0.20,
+        "risk": "OCA胶验证进度",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 20, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "300285",
+        "name": "国瓷材料",
+        "revenue_cagr_3y": 0.18,
+        "order_growth": 0.15,
+        "risk": "齿科业务增长放缓",
+        "score_breakdown": { "cagr": 12, "order": 10, "potential": 18, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "688065",
+        "name": "凯赛生物",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.18,
+        "risk": "生物基材料推广不及预期",
+        "score_breakdown": { "cagr": 12, "order": 12, "potential": 25, "valuation": 10, "risk": -10 }
+      },
+      {
+        "code": "300699",
+        "name": "光威复材",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.10,
+        "risk": "军工订单节奏波动",
+        "score_breakdown": { "cagr": 10, "order": 8, "potential": 15, "valuation": 15, "risk": -10 }
+      },
+      {
+        "code": "002254",
+        "name": "泰和新材",
+        "revenue_cagr_3y": 0.22,
+        "order_growth": 0.20,
+        "risk": "芳纶新增产能消化",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 15, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "300777",
+        "name": "中简科技",
+        "revenue_cagr_3y": 0.25,
+        "order_growth": 0.15,
+        "risk": "客户单一",
+        "score_breakdown": { "cagr": 18, "order": 10, "potential": 15, "valuation": 12, "risk": -15 }
       }
     ]
   },
@@ -97,7 +647,7 @@
     "id": "high-end-mfg",
     "name": "高端制造出海",
     "priority": 7,
-    "tags": ["叉车", "高空作业", "现金流"],
+    "tags": ["叉车", "高空作业", "现金流", "Belt&Road"],
     "metrics": {
       "shipment": "25,000 units",
       "ASP": "¥80k",
@@ -118,16 +668,190 @@
         "overseas_share": 0.35,
         "note": "锂电叉车出口高增，估值低，分红稳定",
         "score_breakdown": { "chain": 15, "scale": 20, "margin": 10, "overseas": 10, "visibility": 12 }
+      },
+      {
+        "code": "603298",
+        "name": "杭叉集团",
+        "revenue_q4yoy": 0.14,
+        "net_profit_growth": 0.20,
+        "gross_margin": 0.22,
+        "overseas_share": 0.38,
+        "note": "民企机制灵活，海外渠道扩张快",
+        "score_breakdown": { "chain": 15, "scale": 18, "margin": 12, "overseas": 12, "visibility": 12 }
+      },
+      {
+        "code": "600031",
+        "name": "三一重工",
+        "revenue_q4yoy": 0.05,
+        "net_profit_growth": 0.08,
+        "gross_margin": 0.28,
+        "overseas_share": 0.40,
+        "note": "挖掘机出口对冲国内下滑，全球化布局深",
+        "score_breakdown": { "chain": 20, "scale": 25, "margin": 15, "overseas": 12, "visibility": 10 }
       }
     ],
     "growth_candidates": [
       {
-        "code": "603xxx",
+        "code": "603338",
         "name": "浙江鼎力",
         "revenue_cagr_3y": 0.35,
         "order_growth": 0.20,
         "risk": "关税政策风险",
         "score_breakdown": { "cagr": 20, "order": 15, "potential": 15, "valuation": 12, "risk": -10 }
+      },
+      {
+        "code": "000157",
+        "name": "中联重科",
+        "revenue_cagr_3y": 0.10,
+        "order_growth": 0.15,
+        "risk": "国内地产拖累",
+        "score_breakdown": { "cagr": 8, "order": 12, "potential": 10, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "000425",
+        "name": "徐工机械",
+        "revenue_cagr_3y": 0.12,
+        "order_growth": 0.12,
+        "risk": "国企改革效率",
+        "score_breakdown": { "cagr": 10, "order": 10, "potential": 12, "valuation": 15, "risk": -5 }
+      },
+      {
+        "code": "601100",
+        "name": "恒立液压",
+        "revenue_cagr_3y": 0.18,
+        "order_growth": 0.15,
+        "risk": "非挖产品放量不及预期",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 18, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "603960",
+        "name": "克来机电",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.18,
+        "risk": "汽车行业竞争",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 15, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "002595",
+        "name": "豪能股份",
+        "revenue_cagr_3y": 0.22,
+        "order_growth": 0.20,
+        "risk": "原材料价格波动",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 12, "valuation": 12, "risk": -5 }
+      },
+      {
+        "code": "603170",
+        "name": "宝立食品",
+        "revenue_cagr_3y": 0.18,
+        "order_growth": 0.15,
+        "risk": "消费需求弱",
+        "score_breakdown": { "cagr": 12, "order": 12, "potential": 10, "valuation": 15, "risk": -5 }
+      }
+    ]
+  },
+  {
+    "id": "niche-software",
+    "name": "少数软件（有海外客户）",
+    "priority": 8,
+    "tags": ["SaaS", "Construction", "CAD", "Creative"],
+    "metrics": {
+      "shipment": "N/A",
+      "ASP": "Rising",
+      "gross_margin": 0.85,
+      "gross_margin_prev": 0.84,
+      "overseas_share": 0.40,
+      "order_book_trend": "flat"
+    },
+    "trend": "flat",
+    "last_updated": "2023-12-18",
+    "leaders": [
+      {
+        "code": "688188",
+        "name": "柏楚电子",
+        "revenue_q4yoy": 0.35,
+        "net_profit_growth": 0.40,
+        "gross_margin": 0.80,
+        "overseas_share": 0.10,
+        "note": "激光切割系统绝对龙头，海外市场快速拓展",
+        "score_breakdown": { "chain": 20, "scale": 15, "margin": 30, "overseas": 8, "visibility": 20 }
+      },
+      {
+        "code": "688083",
+        "name": "中望软件",
+        "revenue_q4yoy": 0.15,
+        "net_profit_growth": 0.10,
+        "gross_margin": 0.95,
+        "overseas_share": 0.20,
+        "note": "国产CAD龙头，出口性价比高",
+        "score_breakdown": { "chain": 15, "scale": 15, "margin": 30, "overseas": 10, "visibility": 15 }
+      },
+      {
+        "code": "300624",
+        "name": "万兴科技",
+        "revenue_q4yoy": 0.25,
+        "net_profit_growth": 0.30,
+        "gross_margin": 0.90,
+        "overseas_share": 0.90,
+        "note": "数字创意软件，AI赋能，主要面向海外C端",
+        "score_breakdown": { "chain": 15, "scale": 15, "margin": 25, "overseas": 25, "visibility": 10 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "002315",
+        "name": "焦点科技",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.25,
+        "risk": "跨境电商政策风险",
+        "score_breakdown": { "cagr": 15, "order": 20, "potential": 15, "valuation": 15, "risk": -10 }
+      },
+      {
+        "code": "688475",
+        "name": "萤石网络",
+        "revenue_cagr_3y": 0.18,
+        "order_growth": 0.20,
+        "risk": "智能家居竞争激烈",
+        "score_breakdown": { "cagr": 15, "order": 15, "potential": 18, "valuation": 12, "risk": -8 }
+      },
+      {
+        "code": "688088",
+        "name": "虹软科技",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.15,
+        "risk": "手机市场饱和",
+        "score_breakdown": { "cagr": 12, "order": 12, "potential": 18, "valuation": 12, "risk": -5 }
+      },
+      {
+        "code": "002153",
+        "name": "石基信息",
+        "revenue_cagr_3y": 0.05,
+        "order_growth": 0.10,
+        "risk": "国际大客户上线进度慢",
+        "score_breakdown": { "cagr": 5, "order": 10, "potential": 25, "valuation": 10, "risk": -10 }
+      },
+      {
+        "code": "600845",
+        "name": "宝信软件",
+        "revenue_cagr_3y": 0.20,
+        "order_growth": 0.15,
+        "risk": "钢铁行业周期影响",
+        "score_breakdown": { "cagr": 15, "order": 12, "potential": 15, "valuation": 12, "risk": -5 }
+      },
+      {
+        "code": "600570",
+        "name": "恒生电子",
+        "revenue_cagr_3y": 0.15,
+        "order_growth": 0.12,
+        "risk": "金融监管政策",
+        "score_breakdown": { "cagr": 12, "order": 10, "potential": 15, "valuation": 15, "risk": -8 }
+      },
+      {
+        "code": "688111",
+        "name": "金山办公",
+        "revenue_cagr_3y": 0.30,
+        "order_growth": 0.25,
+        "risk": "B端信创节奏波动",
+        "score_breakdown": { "cagr": 20, "order": 18, "potential": 20, "valuation": 5, "risk": -5 }
       }
     ]
   }
