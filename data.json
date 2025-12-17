@@ -1,0 +1,134 @@
+[
+  {
+    "id": "optical-cpo",
+    "name": "光模块 / 光通信",
+    "priority": 1,
+    "tags": ["AI", "CPO", "800G", "Nvidia Chain"],
+    "metrics": {
+      "shipment": "12,000k",
+      "ASP": "$350",
+      "gross_margin": 0.34,
+      "gross_margin_prev": 0.31,
+      "overseas_share": 0.85,
+      "order_book_trend": "up"
+    },
+    "trend": "up",
+    "last_updated": "2023-12-15",
+    "leaders": [
+      {
+        "code": "300308",
+        "name": "中际旭创",
+        "revenue_q4yoy": 0.45,
+        "net_profit_growth": 0.68,
+        "gross_margin": 0.33,
+        "overseas_share": 0.88,
+        "note": "北美大客户核心一供，800G 放量主要受益者",
+        "score_breakdown": { "chain": 30, "scale": 20, "margin": 18, "overseas": 15, "visibility": 15 }
+      },
+      {
+        "code": "603083",
+        "name": "剑桥科技",
+        "revenue_q4yoy": 0.22,
+        "net_profit_growth": 0.40,
+        "gross_margin": 0.28,
+        "overseas_share": 0.75,
+        "note": "海外高速光模块份额提升，LPO 技术储备",
+        "score_breakdown": { "chain": 20, "scale": 15, "margin": 15, "overseas": 12, "visibility": 10 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "300502",
+        "name": "新易盛",
+        "revenue_cagr_3y": 0.55,
+        "order_growth": 0.60,
+        "risk": "单一客户依赖度较高",
+        "score_breakdown": { "cagr": 25, "order": 25, "potential": 18, "valuation": 12, "risk": -10 }
+      },
+      {
+        "code": "688xxx",
+        "name": "源杰科技",
+        "revenue_cagr_3y": 0.40,
+        "order_growth": 0.35,
+        "risk": "高端芯片良率波动",
+        "score_breakdown": { "cagr": 20, "order": 15, "potential": 18, "valuation": 10, "risk": -15 }
+      }
+    ]
+  },
+  {
+    "id": "semi-equipment",
+    "name": "半导体设备",
+    "priority": 2,
+    "tags": ["国产替代", "存储扩产", "Etching"],
+    "metrics": {
+      "shipment": "850 units",
+      "ASP": "¥12M",
+      "gross_margin": 0.42,
+      "gross_margin_prev": 0.41,
+      "overseas_share": 0.05,
+      "order_book_trend": "up"
+    },
+    "trend": "up",
+    "last_updated": "2023-12-10",
+    "leaders": [
+      {
+        "code": "688012",
+        "name": "中微公司",
+        "revenue_q4yoy": 0.32,
+        "net_profit_growth": 0.25,
+        "gross_margin": 0.46,
+        "overseas_share": 0.08,
+        "note": "刻蚀设备全球竞争力强，存储厂核心供应商",
+        "score_breakdown": { "chain": 10, "scale": 20, "margin": 20, "overseas": 2, "visibility": 15 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "688xxx",
+        "name": "拓荆科技",
+        "revenue_cagr_3y": 0.70,
+        "order_growth": 0.55,
+        "risk": "下游晶圆厂扩产放缓",
+        "score_breakdown": { "cagr": 30, "order": 25, "potential": 18, "valuation": 10, "risk": -5 }
+      }
+    ]
+  },
+  {
+    "id": "high-end-mfg",
+    "name": "高端制造出海",
+    "priority": 7,
+    "tags": ["叉车", "高空作业", "现金流"],
+    "metrics": {
+      "shipment": "25,000 units",
+      "ASP": "¥80k",
+      "gross_margin": 0.22,
+      "gross_margin_prev": 0.23,
+      "overseas_share": 0.45,
+      "order_book_trend": "flat"
+    },
+    "trend": "flat",
+    "last_updated": "2023-11-30",
+    "leaders": [
+      {
+        "code": "600761",
+        "name": "安徽合力",
+        "revenue_q4yoy": 0.12,
+        "net_profit_growth": 0.18,
+        "gross_margin": 0.21,
+        "overseas_share": 0.35,
+        "note": "锂电叉车出口高增，估值低，分红稳定",
+        "score_breakdown": { "chain": 15, "scale": 20, "margin": 10, "overseas": 10, "visibility": 12 }
+      }
+    ],
+    "growth_candidates": [
+      {
+        "code": "603xxx",
+        "name": "浙江鼎力",
+        "revenue_cagr_3y": 0.35,
+        "order_growth": 0.20,
+        "risk": "关税政策风险",
+        "score_breakdown": { "cagr": 20, "order": 15, "potential": 15, "valuation": 12, "risk": -10 }
+      }
+    ]
+  }
+]
